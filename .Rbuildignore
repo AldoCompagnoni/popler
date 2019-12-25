@@ -21,3 +21,5 @@
 ^R/Removed_Funs\.R$
 ^cran-comments\.md$
 ^\.github$
+^codemeta\.json$
+^README_files$

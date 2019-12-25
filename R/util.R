@@ -439,7 +439,7 @@ pplr_summary_table_update <- function(){
 
 
 #' @noRd
-#' Check whether the summary table has been recently updated
+# Check whether the summary table has been recently updated
 pplr_summary_table_check = function(){
   
   wks_passed <- floor(as.numeric(difftime(Sys.time(),
